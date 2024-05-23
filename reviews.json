@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "userInfo": {
+      "name": "Jane Doe",
+      "imgUrl": "https://example.com/jane.jpg",
+      "email": "jane.doe@example.com"
+    },
+    "review": "This is an amazing product! Highly recommend it.",
+    "uploaded_on": "23 May, 2024"
+  },
+  {
+    "id": 2,
+    "userInfo": {
+      "name": "Jane Doe",
+      "imgUrl": "https://example.com/jane.jpg",
+      "email": "jane.doe@example.com"
+    },
+    "review": "This is an amazing product! Highly recommend it.",
+    "uploaded_on": "23 May 2024"
+  },
+  {
+    "id": 3,
+    "userInfo": {
+      "name": "Jane Doe",
+      "imgUrl": "https://example.com/jane.jpg",
+      "email": "jane.doe@example.com"
+    },
+    "review": "This is an amazing product! Highly recommend it.",
+    "uploaded_on": "23 May 2024"
+  },
+  {
+    "id": 4,
+    "userInfo": {
+      "name": "Sheraz Manzoor",
+      "imgUrl": "https://example.com/jane.jpg",
+      "email": "sheraz.dev121@gmail.com"
+    },
+    "review": "This is an amazing product! Highly recommend it.",
+    "uploaded_on": "23 May 2024"
+  },
+  {
+    "id": 5,
+    "userInfo": {
+      "name": "Sheraz Manzoor",
+      "imgUrl": "https://example.com/jane.jpg",
+      "email": "sheraz.dev121@gmail.com"
+    },
+    "review": "This is an amazing product! Highly recommend it.",
+    "uploaded_on": "23 May 2024"
+  }
+]
